@@ -23,5 +23,5 @@ SPCA-master/
 
 ## 2. Contacts
 
-If you have any questions, please feel free to contact [Zao Kang](mailto:zkang@uestc.edu.cn), we will reply it as soon as possible.
+If you have any questions, please feel free to contact [Zhao Kang](mailto:zkang@uestc.edu.cn).
 
